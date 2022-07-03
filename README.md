@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KBryant702
-- 👀 I’m interested in ... Dreaming Big
-- 🌱 I’m currently learning ...Java Development SQL
+- 👀 I’m interested in ... Dreaming Big, Working Hard, Learning More
+- 🌱 I’m currently learning ...Java Development, SQL, HTML, CSS, JavaScript. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... BryantKim702@gmail.com
 
